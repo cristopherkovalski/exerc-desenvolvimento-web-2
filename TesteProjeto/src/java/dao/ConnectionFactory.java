@@ -16,7 +16,7 @@ public class ConnectionFactory {
 	String driverClassName = "com.mysql.cj.jdbc.Driver";
 	String connectionUrl = "jdbc:mysql://localhost:3306/tb_usuario?useTimeZone=true&serverTimezone=UTC&autoReconnect=true&useSSL=false";
 	String dbUser = "root";
-	String dbPwd = "vivimage";
+	String dbPwd = "";
 
 	private static ConnectionFactory connectionFactory = null;
 
