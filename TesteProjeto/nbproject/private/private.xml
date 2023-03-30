@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/src/java/PortalServlet.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/src/java/beans/AtendimentoBean.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/src/java/StartupServlet.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/src/java/dao/ConnectionFactory.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/web/portal.jsp</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/web/clienteListar.jsp</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/src/java/dao/EstadoDao.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/src/java/LoginServlet.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/src/java/AtendimentoServlet.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/web/erro.jsp</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/src/java/beans/ProdutoBean.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/src/java/Usuario.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/src/java/beans/UsuarioBean.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/src/java/dao/ProdutoDAO.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/web/index.jsp</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/src/java/EstadoFacade.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/src/java/beans/ConfigBean.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/src/java/beans/EstadoBean.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/src/java/dao/ClienteDao.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/src/java/LogoutServlet.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/src/java/ClienteServlet.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/src/java/dao/UsuarioDAO.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/src/java/CadastrarUsuarioServlet1.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/src/java/AJAXServlet.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/web/atendimento.jsp</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/web/clienteVisualizar.jsp</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/src/java/beans/CidadeBean.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/src/java/CidadeFacade.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/web/atendimentoVisualizar.jsp</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/src/java/CadastrarUsuarioServlet.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/src/java/beans/ClienteBean.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/src/java/dao/CidadeDao.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/web/inserir.jsp</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/src/java/beans/LoginBean.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/web/clienteForm.jsp</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/src/java/ErroServlet.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/src/java/dao/TipoAtendimentoDAO.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/src/java/AtendimentoFacade.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/src/java/beans/TipoAtendimentoBean.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/src/java/dao/AtendimentoDAO.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/src/java/ClienteFacade.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/TesteProjeto/src/java/dao/LoginDao.java</file>
+        </group>
+    </open-files>
+</project-private>
